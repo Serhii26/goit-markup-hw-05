@@ -501,7 +501,7 @@ body {
     
     .portfolio-work {
         width: 370px;
-        z-index: 2;
+        /* z-index: 2; */
         margin-right: 30px;
         margin-bottom: 30px;
         
