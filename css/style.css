@@ -643,7 +643,7 @@ body {
          transform: scale(1); 
          opacity: 1;
          transform-origin: left bottom;
-         transition: transform 500ms cubic-bezier(0.4, 0, 0.2, 1), opacity 500ms cubic-bezier(0.4, 0, 0.2, 1),  visibility 500ms cubic-bezier(0.4, 0, 0.2, 1) ;
+         transition: transform 500ms cubic-bezier(0.4, 0, 0.2, 1), opacity 900ms cubic-bezier(0.4, 0, 0.2, 1),  visibility 800ms cubic-bezier(0.4, 0, 0.2, 1) ;
         
         
     }
